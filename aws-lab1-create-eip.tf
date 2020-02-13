@@ -1,6 +1,6 @@
 provider "aws" {
-    access_key = "AKIAX4VFWOWGQDAGC74Q"
-    secret_key = "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"
+    access_key = "xxxxxxxxxxxxxxxxxxxxxx"
+    secret_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     region = "us-east-2"
 }
 resource "aws_eip" "eip1" {
